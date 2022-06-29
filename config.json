@@ -1,0 +1,28 @@
+{
+  "prefix": "!",
+  "join": {
+    "roles": [
+      ""
+    ],
+    "channel": ""
+    "webhook": ""
+  },
+  "leave": {
+    "channel": ""
+  },
+  "count": {
+    "channel": "",
+    "format": ""
+  },
+  "suggestions": "",
+  "ticket": {
+    "scripts": "",
+    "categ": "",
+    "ping": ""
+  },
+  "server":"",
+  "vote": {
+    "channel": "",
+    "sec": ""
+  }
+}
